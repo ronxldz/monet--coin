@@ -1,7 +1,7 @@
 // import images
-import BitconImg from "./assets/img/bitcon.png";
-import EthereumImg from "./assets/img/ethereum.png";
-import LitecoinImg from "./assets/img/litecoin.png";
+import BitconImg from "./assets/bitcon.png";
+import EthereumImg from "./assets/ethereum.png";
+import LitecoinImg from "./assets/litecoin.png";
 
 export const navData = [
   {
